@@ -21,5 +21,5 @@ Built for APIConf Lagos 2026 x Monnify Developer Challenge.
 4. Run the app: `npm start`
 
 ## Team
-- [Your name] — [role]
-- [Partner's name] — [role]
+- Oyediran Daniel — Software developer
+- Oloko Abdulkabir — Back end developer
