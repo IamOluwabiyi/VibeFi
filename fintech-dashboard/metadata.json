@@ -1,0 +1,6 @@
+{
+  "name": "VibeFi Savings",
+  "description": "An elegant personal savings platform featuring a personal savings wallet, Ajo group savings circles, and locked target savings goals with Monnify virtual account integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
